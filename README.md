@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Focusing on Data Science and AIML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmohile77&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmohile77" /> </p>
+--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmohile77&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmohile77" /> </p> 
+--
 
 - 🌱 I’m currently learning **Snowflake**
 
