@@ -29,9 +29,9 @@ Fun Facts:
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=TkX1totjFmAD&format=png" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" alt="tableau" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" alt="power bi" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg" alt="jupter" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=0JUBXbNc9AaZ&format=png" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png" alt="google colab" width="40" height="40"/> </a>
-<a href="(https://cloud.google.com/)" target="_blank" rel="noreferrer"> <img src="[https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png](https://img.icons8.com/?size=48&id=WHRLQdbEXQ16&format=png)" alt="google cloud" width="40" height="40"/>
+<a href="(https://cloud.google.com/)" target="_blank" rel="noreferrer"> <img src="(https://img.icons8.com/?size=48&id=WHRLQdbEXQ16&format=png)" alt="google cloud" width="40" height="40"/>
 </p>
 
 
