@@ -1,18 +1,18 @@
 Hey there 👋
 
-I'm Abhishek, an aspiring data science geek from India.
+I'm Abhishek, an aspiring data science enthusiast from India.
 
 I build and optimise anything that crosses my chain of ideas.
 
 If I see something unique, chances are I'll learn something new from it.
 
-My main focus is Data Science, with a side of AI/ML. I have tried and practiced several libraries and software tools useful for this domain, and I am currently focused on studying Snowflake.
+My main focus is Data Science with a side of AI/ML. I have tried and practiced several libraries and software tools useful for this domain and I am currently focused on studying Snowflake.
 
-I've built some repositories during my learn-and-apply time, but my favourite is SQL-Jobs project. 
+I've built some repositories during my learn-and-apply time but my favourite is SQL-Jobs project. 
 
 Fun Facts:
 - 🎮 Video game connoisseur  
-- ☕ 24x7 coffee, tea, or any beverage guy  
+- ☕ 24x7 tea, coffee or any beverage guy  
 - **Hobbies**: music/audiophile, anime, gym, beatboxing
 
 
