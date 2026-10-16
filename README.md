@@ -2,13 +2,11 @@ Hey there 👋
 
 I'm Abhishek, an aspiring data science enthusiast from India.
 
-I build and optimise anything that crosses my chain of ideas.
+I build and optimise anything that crosses mind.
 
-If I see something unique, chances are I'll learn something new from it.
+My main focus is Data Science and AI/ML. I have tried and practiced several libraries and software tools useful for this domains and I am currently focused on studying technologies that are new for me.
 
-My main focus is Data Science with a side of AI/ML. I have tried and practiced several libraries and software tools useful for this domain and I am currently focused on studying Snowflake.
-
-I've built some repositories during my learn-and-apply time but my favourite is SQL-Jobs project. 
+I've built some repositories during my learn-and-apply time with Mumbai Air Quality Analysis being the most recent one.
 
 Fun Facts:
 - 🎮 Video game connoisseur  
